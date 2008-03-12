@@ -8,7 +8,7 @@ namespace myhitlist
 	{
 		/// <summary>
 		/// The main entry point for the application.
-        /// prufa check
+        /// prufa check oli
 		/// </summary>
 		[STAThread]
 		static void Main()
