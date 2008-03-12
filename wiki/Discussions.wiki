@@ -1,4 +1,4 @@
-#Summary Rætt um verkefnin
+#summary Rætt um verkefnin
 
 = Umræður =
 
