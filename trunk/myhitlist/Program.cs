@@ -9,6 +9,7 @@ namespace myhitlist
 		/// <summary>
 		/// The main entry point for the application.
         /// prufa check oli aftur
+        /// dabbi núna
 		/// </summary>
 		[STAThread]
 		static void Main()
