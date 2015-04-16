@@ -1,0 +1,3 @@
+# Introduction #
+
+Skoðið Addons fyrir VS2005 : http://ankhsvn.open.collab.net/servlets/ProjectProcess?pageID=3794&_=d
